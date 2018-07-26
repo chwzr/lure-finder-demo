@@ -1,0 +1,40 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+<link rel="import" href="../../bower_components/lure-finder/lure-finder.html">
+
+<dom-module id="lure-demo-app">
+  <template>
+    <style>
+      :host {
+        display: block;
+        font-family: 'Roboto', sans-serif;
+      }
+
+      body{
+        font-family: 'Roboto', sans-serif;
+      }
+    </style>
+    <lure-finder></lure-finder>
+  </template>
+
+  <script>/**
+ * @customElement
+ * @polymer
+ */
+class LureDemoApp extends Polymer.Element {
+  static get is() {
+    return 'lure-demo-app';
+  }
+
+  static get properties() {
+    return {
+      prop1: {
+        type: String,
+        value: 'lure-demo-app'
+      }
+    };
+  }
+
+}
+
+window.customElements.define(LureDemoApp.is, LureDemoApp);</script>
+</dom-module>
