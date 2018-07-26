@@ -1,0 +1,522 @@
+﻿{
+  "Questions": [
+    "Welchen Fisch möchtest du fangen?",
+    "Wo möchtest du Angeln?",
+    "Wie ist das Wasser?"
+  ],
+  "Answers": {
+    "Barsch": {
+      "Teich": {
+        "Klar": [
+          {
+            "name": "5cm Sunny"
+          },
+          {
+            "name": "5cm Whisky"
+          },
+          {
+            "name": "5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "5cm Captain"
+          },
+          {
+            "name": "5cm Pinky"
+          },
+          {
+            "name": "5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "See": {
+        "Klar": [
+          {
+            "name": "5cm Sunny"
+          },
+          {
+            "name": "5cm Whisky"
+          },
+          {
+            "name": "5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "5cm Captain"
+          },
+          {
+            "name": "5cm Pinky"
+          },
+          {
+            "name": "5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Kanal": {
+        "Klar": [
+          {
+            "name": "7,5cm Sunny"
+          },
+          {
+            "name": "7,5cm Whisky"
+          },
+          {
+            "name": "7,5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "7,5cm Captain"
+          },
+          {
+            "name": "7,5cm Pinky"
+          },
+          {
+            "name": "7,5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Fluss": {
+        "Klar": [
+          {
+            "name": "7,5cm Sunny"
+          },
+          {
+            "name": "7,5cm Whisky"
+          },
+          {
+            "name": "7,5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "7,5cm Captain"
+          },
+          {
+            "name": "7,5cm Pinky"
+          },
+          {
+            "name": "7,5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Hafen": {
+        "Klar": [
+          {
+            "name": "7,5cm Sunny"
+          },
+          {
+            "name": "7,5cm Whisky"
+          },
+          {
+            "name": "7,5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "7,5cm Captain"
+          },
+          {
+            "name": "7,5cm Pinky"
+          },
+          {
+            "name": "7,5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      }
+    },
+    "Zander": {
+      "Teich": {
+        "Klar": [
+          {
+            "name": "10cm Sunny"
+          },
+          {
+            "name": "10cm Whisky"
+          },
+          {
+            "name": "10m Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "10cm Captain"
+          },
+          {
+            "name": "10cm Pinky"
+          },
+          {
+            "name": "10cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "See": {
+        "Klar": [
+          {
+            "name": "10cm Sunny"
+          },
+          {
+            "name": "10cm Whisky"
+          },
+          {
+            "name": "10m Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "10cm Captain"
+          },
+          {
+            "name": "10cm Pinky"
+          },
+          {
+            "name": "10cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Kanal": {
+        "Klar": [
+          {
+            "name": "12,5cm Sunny"
+          },
+          {
+            "name": "12,5cm Whisky"
+          },
+          {
+            "name": "12,5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "12,5cm Captain"
+          },
+          {
+            "name": "12,5cm Pinky"
+          },
+          {
+            "name": "12,5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Fluss": {
+        "Klar": [
+          {
+            "name": "12,5cm Sunny"
+          },
+          {
+            "name": "12,5cm Whisky"
+          },
+          {
+            "name": "12,5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "12,5cm Captain"
+          },
+          {
+            "name": "12,5cm Pinky"
+          },
+          {
+            "name": "12,5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Hafen": {
+        "Klar": [
+          {
+            "name": "12,5cm Sunny"
+          },
+          {
+            "name": "12,5cm Whisky"
+          },
+          {
+            "name": "12,5cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "12,5cm Captain"
+          },
+          {
+            "name": "12,5cm Pinky"
+          },
+          {
+            "name": "12,5cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      }
+    },
+    "Hecht": {
+      "Teich": {
+        "Klar": [
+          {
+            "name": "15cm Sunny"
+          },
+          {
+            "name": "15cm Whisky"
+          },
+          {
+            "name": "15cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "15cm Captain"
+          },
+          {
+            "name": "15cm Pinky"
+          },
+          {
+            "name": "15cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "See": {
+        "Klar": [
+          {
+            "name": "15cm Sunny"
+          },
+          {
+            "name": "15cm Whisky"
+          },
+          {
+            "name": "15cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "15cm Captain"
+          },
+          {
+            "name": "15cm Pinky"
+          },
+          {
+            "name": "15cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Kanal": {
+        "Klar": [
+          {
+            "name": "15cm Sunny"
+          },
+          {
+            "name": "15cm Whisky"
+          },
+          {
+            "name": "15cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "15cm Captain"
+          },
+          {
+            "name": "15cm Pinky"
+          },
+          {
+            "name": "15cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Fluss": {
+        "Klar": [
+          {
+            "name": "15cm Sunny"
+          },
+          {
+            "name": "15cm Whisky"
+          },
+          {
+            "name": "15cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "15cm Captain"
+          },
+          {
+            "name": "15cm Pinky"
+          },
+          {
+            "name": "15cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      },
+      "Hafen": {
+        "Klar": [
+          {
+            "name": "15cm Sunny"
+          },
+          {
+            "name": "15cm Whisky"
+          },
+          {
+            "name": "15cm Ultimate Collection klar"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ],
+        "Trüb": [
+          {
+            "name": "15cm Captain"
+          },
+          {
+            "name": "15cm Pinky"
+          },
+          {
+            "name": "15cm Ultimate Collection trüb"
+          },
+          {
+            "name": "Community Tip"
+          }
+        ]
+      }
+    },
+    "Dorsch": {
+      "Beifänger": [
+        {
+          "name": "7,5cm Möhrchen"
+        },
+        {
+          "name": "7,5cm NEO"
+        },
+        {
+          "name": "Community Tip"
+        }
+      ],
+      "Kleinboot": [
+        {
+          "name": "10cm Möhrchen"
+        },
+        {
+          "name": "10cm NEO"
+        },
+        {
+          "name": "Community Tip"
+        }
+      ],
+      "Kutter": [
+        {
+          "name": "12,5cm Möhrchen"
+        },
+        {
+          "name": "12,5cm NEO"
+        },
+        {
+          "name": "Community Tip"
+        }
+      ],
+      "Wrack": [
+        {
+          "name": "15cm Möhrchen"
+        },
+        {
+          "name": "15cm NEO"
+        },
+        {
+          "name": "Community Tip"
+        }
+      ],
+      "Norwegen": [
+        {
+          "name": "20cm Möhrchen"
+        },
+        {
+          "name": "20cm NEO"
+        },
+        {
+          "name": "Community Tip"
+        }
+      ]
+    }
+  }
+}
